@@ -1,0 +1,28 @@
+.kagg-generator-menu-image {
+    display: inline-block;
+    vertical-align: middle;
+    padding-right: 5px;
+}
+
+.kagg-generator-menu-title {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#kagg-generate-button {
+	color: #f6871f;
+	border-color: #f6871f;
+}
+
+#kagg-generate-button:focus {
+	box-shadow: 0 0 0 1px #f6871f;
+}
+
+#kagg-delete-button {
+	color: #ed1065;
+	border-color: #ed1065;
+}
+
+#kagg-delete-button:focus {
+	box-shadow: 0 0 0 1px #ed1065;
+}
